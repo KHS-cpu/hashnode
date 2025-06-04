@@ -5,6 +5,7 @@ seoDescription: "Deploying Istio bookinfo app using Service Connect and Service 
 datePublished: Tue Jun 03 2025 09:02:15 GMT+0000 (Coordinated Universal Time)
 cuid: cmbgaijhq000i09jo9p1mayua
 slug: deploying-istio-bookinfo-app-with-aws-ecs
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1749028572816/0355227c-e7f5-46f1-a65c-86af16db5328.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1749028452395/8a273c07-4e22-49f4-b465-716524227e20.png
 tags: service-discovery, aws-ecs, aws-fargate, istio-bookinfo, service-connect
 
