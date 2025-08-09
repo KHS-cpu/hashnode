@@ -198,7 +198,7 @@ You can also integrate alerting with PagerDuty, Slack etc. I use PagerDuty to te
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1754714168687/22363602-6012-41d7-be69-fa481081e3ca.png align="center")
 
-Go to Alert&gt;New Alert Rule. Use metrics as up and when query is Equal to 0. Create the required Alert Folder, Evaluation Grp and most importantly create contact points.
+Go to Alert&gt;New Alert Rule. Use metrics as up or webapp\_up and when query is Equal to 0 the alert will trigger. Create the required Alert Folder, Evaluation Grp and most importantly create contact points.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1754714184656/751102c1-80c7-40df-834b-efc052c83fda.png align="center")
 
